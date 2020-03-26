@@ -7,5 +7,9 @@ test 06
 
 i am dev branch
 
+<<<<<<< HEAD
 a new branch
 
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
