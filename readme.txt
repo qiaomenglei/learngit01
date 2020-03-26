@@ -7,3 +7,4 @@ test 06
 
 i am dev branch
 
+Creating a new branch is quick AND simple.
