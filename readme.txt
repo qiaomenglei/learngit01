@@ -6,7 +6,7 @@ test new
 test 06
 Git is a free software
 i am dev branch
-
+sssss
 <<<<<<< HEAD
 a new branch
 ssss
