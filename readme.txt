@@ -9,7 +9,7 @@ i am dev branch
 
 <<<<<<< HEAD
 a new branch
-
+ssss
 =======
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
